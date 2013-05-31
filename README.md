@@ -8,7 +8,9 @@ allows for expanding/collapsing header navigation,  and prevents overflow of the
 header or footer.
 
 The sticky sidebar functionality is based on stickymojo.js: http://mojotech.github.com/stickymojo/
-If that's all you need, then use it. They make a nice product.
+If that's all you need, then use it. They make a nice product. 
+
+Stickit is designed for sticky navs used in conjunction with sticky (and possibly collapsing) nav, to keep everything stuck without collisions.
 
 If using a collapsing header, you can hide/show content in the header based on body.collapsed. 
 When collapsed, the class will exist. When open, it won't.
