@@ -7,7 +7,7 @@ Stickit allows for multiple sticky elements, allows them be combined with a stic
 allows for expanding/collapsing header navigation,  and prevents overflow of the sticky element to the
 header or footer.
 
-The sticky sidebar functionality is heavily based on stickymojo.js: http://mojotech.github.com/stickymojo/
+The sticky sidebar functionality is based on stickymojo.js: http://mojotech.github.com/stickymojo/
 If that's all you need, then use it. They make a nice product.
 
 If using a collapsing header, you can hide/show content in the header based on body.collapsed. 
